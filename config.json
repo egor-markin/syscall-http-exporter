@@ -1,0 +1,10 @@
+{
+  "address": "localhost:8080",
+  "endpoints": [
+    {
+      "command": "date",
+      "endpoint": "/current-date",
+      "content_type": "text/plain"
+    }
+  ]
+}
